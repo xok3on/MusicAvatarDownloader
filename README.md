@@ -13,7 +13,7 @@
 
 ## Технологии
 
-- HTML5 / CSS3 / JavaScript
+- Python | nicegui
 - Cover Art Archive API / Last.fm
 - Tailwind CSS (опционально)
 
