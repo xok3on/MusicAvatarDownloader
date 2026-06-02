@@ -26,6 +26,7 @@
 
 - git clone https://github.com/xok3on/MusicAvatarDownloader
 - cd MusicAvatarDownloader
+- pip install -r requirements.txt
 - python main.py
 
 MIT
