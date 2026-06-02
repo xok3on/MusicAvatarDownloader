@@ -1,0 +1,13 @@
+# --- Core Web Framework ---
+nicegui==1.4.24
+uvicorn==0.29.0
+
+# --- Network & API Requests ---
+requests==2.31.0
+urllib3==2.2.1
+
+# --- Data Handling & Processing ---
+typing_extensions==4.11.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
