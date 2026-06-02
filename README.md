@@ -26,4 +26,11 @@
 
 ## Лицензия
 
+
+## Как запустить
+
+- git clone https://github.com/xok3on/MusicAvatarDownloader
+- cd MusicAvatarDownloader
+- python main.py
+
 MIT
